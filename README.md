@@ -1,2 +1,4 @@
-# educar
-Restauração do projeto desenvolvido para a iniciação cientifica e para o projeto interdisciplinar do 4º semestre
+# Educar
+Educar é um aplicativo que usar a Optical Character Recognition (OCR) e a Realidade Aumentada para
+poder auxiliar os professores e mestres na alfabetização e ensino de cores para as suas crianças.
+A documentação foi reescrita em mkdocs.
